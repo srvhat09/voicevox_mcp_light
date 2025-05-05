@@ -148,3 +148,6 @@ python -m pytest
 - [VOICEVOX](https://voicevox.hiroshiba.jp/) - 高品質な音声合成エンジン
 - [VOICEVOX Engine Github](https://github.com/VOICEVOX/voicevox_engine)
 - [Model Context Protocol](https://modelcontextprotocol.io/) - LLMとのコンテキスト共有のための標準プロトコル
+- [Model Context Protocol (MCP) サーバを使ってみた・作ってみた](https://zenn.dev/karaage0703/articles/42f7b0655a6af8) - MCP全般の基礎として 
+- [notion-mcp-light](https://github.com/karaage0703/notion-mcp-light) - NotionMCP Light 構造解析し Vibe Coding に
+- [PythonとVOICEVOXで音声合成](https://zenn.dev/karaage0703/articles/0187d1d1f4d139) - voicevox の知識として
